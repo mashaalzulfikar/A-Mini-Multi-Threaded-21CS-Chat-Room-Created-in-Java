@@ -17,7 +17,7 @@ Created for the Operating Systems course, this application allows multiple clien
 - **Robust Networking:** Built on TCP/IP socket programming.
 
 ## Requirements
-- Java Development Kit (JDK) 17 or higher.
+- **Java Development Kit (JDK) 17** or higher.
 - A terminal or Command Prompt (CLI).
 
 ## How to Run
